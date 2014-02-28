@@ -1,0 +1,11 @@
+{
+	"name": "file-upload",
+	"description": "WebSocket-based file uploader.",
+	"version": "0.0.1",
+	"private": true,
+	"dependencies": {
+		"express": "latest",
+		"ejs": "latest",
+		"socket.io": "latest"
+	}
+}
